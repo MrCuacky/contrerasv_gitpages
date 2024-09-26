@@ -2,7 +2,7 @@
   "name": "contrerasv_gitpages",
   "private": true,
   "version": "0.0.0",
-  "homepage": "http://ingreyeslara.github.io/apellido_gitpages/build",
+  "homepage": "https://main--monumental-tartufo-8d5565.netlify.app",
   "type": "module",
   "scripts": {
     "dev": "vite",
